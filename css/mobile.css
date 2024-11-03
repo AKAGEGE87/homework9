@@ -1,0 +1,9 @@
+/* 480 - 320 */
+@media screen and (max-width: 376px) {
+  header {
+    padding: 6px 14px;
+  }
+  .sectione_one{
+    padding: 123px 14px;
+  }
+}
